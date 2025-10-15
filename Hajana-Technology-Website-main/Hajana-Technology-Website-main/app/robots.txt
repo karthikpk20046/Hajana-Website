@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://hajanatechnologies.com/sitemap.xml
+
+# Disallow specific paths if needed
+# Disallow: /admin/
+# Disallow: /api/
+
+# Allow search engines to crawl all content
+Allow: /
+
+# Crawl delay (optional)
+Crawl-delay: 1
