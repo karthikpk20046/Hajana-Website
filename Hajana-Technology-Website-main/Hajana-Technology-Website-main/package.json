@@ -40,7 +40,7 @@
     "typescript": "^5.7.2"
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "resolutions": {
     "glob": "^9.3.0",
