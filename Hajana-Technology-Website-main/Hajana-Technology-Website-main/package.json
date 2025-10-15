@@ -31,19 +31,18 @@
     "@types/react": "^18.3.17",
     "@types/react-dom": "^18.3.5",
     "autoprefixer": "^10.4.20",
-    "eslint": "^8.57.1",
+    "eslint": "^9.16.0",
     "eslint-config-next": "^15.1.5",
     "postcss": "^8.5.1",
     "rimraf": "^5.0.0",
     "tailwindcss": "^3.4.17",
     "tailwindcss-animate": "^1.0.7",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "@eslint/object-schema": "^2.0.3",
+    "@eslint/config-array": "^0.13.0",
+    "glob": "^9.3.0"
   },
   "engines": {
     "node": "22.x"
-  },
-  "resolutions": {
-    "glob": "^9.3.0",
-    "inflight": "^1.0.6"
   }
 }
